@@ -13,4 +13,5 @@ Q4) What products are most often sold together?
 Q5) What product sold the most? why do youthink it sold the most?
 
 To solve this data I have cleaned this dataset and while cleaning I have done merging and added different columns or attribute and Plotted many graphs , subgraph for 
-the visulaization many more things .So I can easily solve the question
+the visulaization many more things .So I can easily solve the question.
+I have Used StackOverflow to solve many issues while doing Analysis. -https://stackoverflow.com/
